@@ -1,4 +1,5 @@
 # Project Title
+![Волк](/uploads/misc/wolf.jpg "Wolf")
 
 One Paragraph of project description goes here
 
